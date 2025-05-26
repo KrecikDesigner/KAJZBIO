@@ -1,2 +1,2 @@
 # Minecraft-Bedrock-Mods
-Free texture packs and behaviour packs for minecraft bedrock
+I post there texture packs/behaviour packs that you can download for free 
